@@ -12,8 +12,8 @@ export default function App() {
         padding={20}
         borderRadius={20}
         scratchCardBgColor={"#fff"}
-        scratchStrokeWidth={30}
-        scratchStrokeColor='#ff385c' />
+        scratchStrokeWidth={60}
+        scratchStrokeColor='#2C4D3D' />
       <StatusBar style="auto" />
     </GestureHandlerRootView>
   );
